@@ -4,7 +4,7 @@ Big Ideas Final Project: The Best Neighborhood in Pittsburgh
 Team 16: Small Ideas     
 Team members:    
 Zining Chen zic38@pitt.edu
-Daley Fraser drf57@pitt.edu
+Daley Fraser drf58@pitt.edu
 
 Overview: Datasets and code to analyze the best neighborhood in Pittsbrughbased on school acessibility, food acessibility, and crime rate. 
 
