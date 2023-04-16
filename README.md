@@ -13,9 +13,9 @@ Description:
 This repository consists of both code and datasets for analyzing the best neighborhood in Pittsbrugh. The three metrics used to rank neighborhood were k-12 school counts, fast food resterants counts and crime rates. Three individual data sets were cleaned seperately then merged together to form a final dataframed used to score and rank neighborhood. 
 
 crime data.ipynb done by Daley Fraser
-fast food.ipynb done by Daley Faser
 school data.ipynb done by Zining Chen
-Joint df.ipynb done by Zining Chen
+fast food.ipynb combined work between Zining and Daley
+Joint df.ipynb combined work between Zining and Daley
 
 Link to datasets:
 School data:  https://data.wprdc.org/dataset/46fb3ca4-e844-4b42-b034-e87291d34699/resource/06664b02-c673-49d5-8a70-d3cd1c18ac8d/download/pps_schoolsapr2019publish.csv     
