@@ -14,7 +14,7 @@ This repository consists of both code and datasets for analyzing the best neighb
 
 crime data.ipynb done by Daley Fraser    
 school data.ipynb done by Zining Chen    
-fast food.ipynb combined work between Zining and Daley    
+fast food.ipynb combined work between Daley    
 Joint df.ipynb combined work between Zining and Daley   
 
 Link to datasets:
